@@ -1,7 +1,3 @@
-:root.theme-dark {
-
-}
-
 .theme-dark .main__section__title {
     color: var(--accent-color);
 }
