@@ -1,3 +1,19 @@
+:root.theme-dark {
+    --background-path: url("../images/cover-image-dark.png");
+    --accent-color: #FF0070;
+    --title-color: #DB00FF;
+    --main-text-color: #F1B2CE;
+    --background-color: #000028;
+}
+
 .theme-dark .main__section__title {
     color: var(--accent-color);
+}
+
+.theme-dark .title-background {
+    color: var(--background-color);
+}
+
+.theme-dark .decorative-element {
+    display: block;
 }
